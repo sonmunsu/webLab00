@@ -1,0 +1,63 @@
+body{
+	font-family : Arial, Georgia, "sans-serif";
+	color : #8ED4E6;
+	background-color : #4051B5;
+	background-image : url("cse326bg.png");
+	background-repeat : no-repeat;
+	background-position : right top;
+	background-attachment : fixed;
+}
+h1{
+	color:#91D8C2;
+	text-align : center;	
+}
+strong{
+	text-shadow:-2px 2px #ACACAC;
+}
+ins{
+	color : #10FF10;
+	text-decoration : none;
+}
+ins:hover{font-weight : bold;}
+del{
+	color : #FF3636
+}
+h2{
+	font-size : 1.8em;
+	color:#91D8C2;
+}
+blockquote{
+	font-size : 80%;
+}
+dt{
+	font-weight : bold;
+}
+dl{
+	font-size : 75%;
+	color : #FDFD1B;
+}
+p:first-letter{
+	font-size : 150%;
+	font-weight : bold;
+}
+table,tr,td,th{
+	border : solid;
+	border-collapse : collapse;
+}
+caption{
+	text-align : right;
+}
+tr:last-child{
+	background-color: white;
+}
+ol{
+	list-style-type : lower-greek;
+}
+img{
+	width:300px; 
+	height:300px;
+}
+a img{
+	width:auto; 
+	height:auto;
+}
