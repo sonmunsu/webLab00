@@ -4,7 +4,7 @@ body{
 	background-color : #4051B5;
 	background-image : url("cse326bg.png");
 	background-repeat : no-repeat;
-	background-position : right top;
+	background-position : right 100px;
 	background-attachment : fixed;
 }
 h1{
